@@ -1,5 +1,6 @@
 body{
     font-family: "Open Sans", sans-serif;
+   
 }
 h1, h2, h3 {
     font-family: "Lobster", cursive;
@@ -11,6 +12,9 @@ h2{
 header h2 {
     color: #CEC8FF;
 }
+.navbar {
+    background-color: #901CAD;
+}
 footer{
     background-image: linear-gradient(#CEC8FF, #fff);
     padding: 20px 0;
@@ -19,6 +23,7 @@ footer{
     padding: 30px;
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: #fff;
+    margin: 0;
 }
 .row-content{
     padding: 50px 0;
